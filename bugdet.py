@@ -46,7 +46,7 @@ CSS = """
 st.markdown(CSS, unsafe_allow_html=True)
 
 # Criar conexão com o banco de dados SQLite
-conn = sqlite3.connect('/Base/financeiro.db')
+conn = sqlite3.connect('Base/financeiro.db')
 c = conn.cursor()
 
 # Criar tabelas no banco de dados, se não existirem
