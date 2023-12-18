@@ -1,5 +1,6 @@
+matplotlib==3.4.3
 streamlit
 streamlit-extras
 seaborn
 pandas
-matplotlib
+
