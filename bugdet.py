@@ -392,6 +392,7 @@ def tela_inicial():
     2. Clique em "Cadastro Despesas" para registrar suas despesas mensais.
     3. Escolha "Análise Mensal" para visualizar gráficos e tabelas relacionados aos seus gastos mensais.
     4. Opte por "Análise Anual" para comparar seus gastos anuais por categoria.
+    5. Escolha "Comparativo Salárial" para visualizar em card e gráfico o saldo restante entre salário x despesas
 
     Divirta-se gerenciando suas finanças!
     """)
